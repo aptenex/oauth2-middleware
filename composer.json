@@ -1,5 +1,5 @@
 {
-    "name": "somoza/oauth2-client-middleware",
+    "name": "aptenex/oauth2-client-middleware",
     "description": "OAuth2 PSR7 middleware for league/oauth2-client",
     "type": "library",
     "license": "MIT",
